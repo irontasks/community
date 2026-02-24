@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Questions & Chat
+    url: https://github.com/irontasks/community/discussions/categories/the-philosophy
+    about: Want to ask a question about how the app will work or discuss productivity? Go here.
+  - name: 💡 Pitch a Gamification Idea
+    url: https://github.com/irontasks/community/discussions/categories/protocol-ideation
+    about: Have an idea for a new Talent Tree node, achievement, or theme? Post it in Discussions so the community can upvote it.
