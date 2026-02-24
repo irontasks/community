@@ -1,0 +1,22 @@
+name: ✨ Feature Request
+description: Propose a new idea or protocol for the IronTasks system.
+title: "[FEAT] <A brief, descriptive title>"
+labels: ["enhancement", "ideation"]
+body:
+  - type: markdown
+    attributes:
+      value: "Your ideas help shape the future of the forge. We highly recommend checking [GitHub Discussions](https://github.com/irontasks/community/discussions) first to see if your idea is already being debated!"
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem would this feature solve?
+      description: "Describe the pain point or missed opportunity you're experiencing."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: What is your proposed solution?
+      description: "How do you envision this feature working? Feel free to include mock-up descriptions or user stories."
+    validations:
+      required: true
